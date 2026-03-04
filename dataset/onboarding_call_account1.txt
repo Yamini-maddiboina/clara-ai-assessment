@@ -1,0 +1,5 @@
+Customer confirmed timezone is EST.
+
+Emergency calls should first go to dispatch.
+
+If transfer fails after 60 seconds technician must call back.

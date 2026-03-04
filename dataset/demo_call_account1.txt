@@ -1,0 +1,11 @@
+Customer: Hi we are ABC Fire Protection.
+
+Our business hours are Monday to Friday 8am to 5pm.
+
+We handle sprinkler repairs and fire alarm inspections.
+
+If there is a sprinkler leak it is considered an emergency.
+
+Emergency calls should go to the on-call technician.
+
+Non emergency calls can be handled during office hours.
